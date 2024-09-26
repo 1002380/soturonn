@@ -1,5 +1,6 @@
 # 卒業論文
  本文([https://github.com/1002380/soturonn/資料/本稿_細川蒼生.pdf](https://github.com/1002380/soturonn/blob/main/%E8%B3%87%E6%96%99/%E6%9C%AC%E7%A8%BF_%E7%B4%B0%E5%B7%9D%E8%92%BC%E7%94%9F.pdf))
+ 
  作成したプログラム(https://github.com/1002380/soturonn/資料/ble_thermo.ino)
  進捗報告書
   - 目次
