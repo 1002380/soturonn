@@ -6,7 +6,7 @@
  
  進捗報告書
   - 目次
-    - [progress01]([https://github.com/1002380/soturonn/資料/progress01.md](https://github.com/1002380/soturonn/blob/main/%E8%B3%87%E6%96%99/progress01.md)) アップロードのテスト
+    - [progress01](https://github.com/1002380/soturonn/blob/main/%E8%B3%87%E6%96%99/progress01.md) アップロードのテスト
     - [progress02](https://github.com/1002380/soturonn/blob/main/%E8%B3%87%E6%96%99/progress02.md) 春休みまでに考えていたことのまとめ
     - [progress03](https://github.com/1002380/soturonn/blob/main/%E8%B3%87%E6%96%99/progress03.md) 研究内容の整理
     - [progress04](https://github.com/1002380/soturonn/blob/main/%E8%B3%87%E6%96%99/progress04.md) 電波から電気を取り出す練習
@@ -28,5 +28,5 @@
     - [progress10](https://github.com/1002380/soturonn/blob/main/%E8%B3%87%E6%96%99/progress10.md) アンテナの設計
     - [progress11](https://github.com/1002380/soturonn/blob/main/%E8%B3%87%E6%96%99/progress11.md) アンテナの作成実験
     - [progress12](https://github.com/1002380/soturonn/blob/main/%E8%B3%87%E6%96%99/progress12.md) 複数巻きループアンテナの実験
-    - [progress13(https://github.com/1002380/soturonn/blob/main/%E8%B3%87%E6%96%99/progress13.md) ラジオ用アンテナの実験
+    - [progress13](https://github.com/1002380/soturonn/blob/main/%E8%B3%87%E6%96%99/progress13.md) ラジオ用アンテナの実験
     - [progress14](https://github.com/1002380/soturonn/blob/main/%E8%B3%87%E6%96%99/progress13.md) ラジオ用アンテナの実験
