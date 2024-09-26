@@ -29,4 +29,4 @@
     - [progress21](https://github.com/1002380/soturonn/blob/main/%E8%B3%87%E6%96%99/progress21.md) 電子機器の開発
     - [progress22](https://github.com/1002380/soturonn/blob/main/%E8%B3%87%E6%96%99/progress22.md) ディープスリープモードの実装
     - [progress23](https://github.com/1002380/soturonn/blob/main/%E8%B3%87%E6%96%99/progress23.md) データ保存の実装
-    - [progress24](https://github.com/1002380/soturonn/blob/main/%E8%B3%87%E6%96%99/progress24.md) ラジオ用アンテナの実験
+    - [progress24](https://github.com/1002380/soturonn/blob/main/%E8%B3%87%E6%96%99/progress24.md) プログラムの修正
